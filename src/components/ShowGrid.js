@@ -3,7 +3,7 @@ import cloneDeep from "lodash/cloneDeep";
 
 const ShowGrid = (props) => {
   const lineStyle = {
-    background: "#4CAF50",
+    background: "#ADD8E6",
     border: "none",
     color: "white",
     padding: "32px 32px",
@@ -13,7 +13,7 @@ const ShowGrid = (props) => {
     fontSize: "16px",
   };
   const lineStyle2 = {
-    background: "#f44336",
+    background: "#456",
     border: "none",
     color: "white",
     padding: "32px 32px",

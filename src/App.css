@@ -24,6 +24,7 @@
 
 .App-header {
   background-color: #fff;
+  background-image: url("paper.jpg");
   min-height: 100vh;
   display: flex;
   flex-direction: column;
