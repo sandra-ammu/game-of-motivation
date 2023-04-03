@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/game-of-motivation/static/css/main.f14595a4.chunk.css",
+    "main.js": "/game-of-motivation/static/js/main.3b2db887.chunk.js",
+    "main.js.map": "/game-of-motivation/static/js/main.3b2db887.chunk.js.map",
+    "runtime-main.js": "/game-of-motivation/static/js/runtime-main.f6d1806a.js",
+    "runtime-main.js.map": "/game-of-motivation/static/js/runtime-main.f6d1806a.js.map",
+    "static/js/2.ba15851d.chunk.js": "/game-of-motivation/static/js/2.ba15851d.chunk.js",
+    "static/js/2.ba15851d.chunk.js.map": "/game-of-motivation/static/js/2.ba15851d.chunk.js.map",
+    "index.html": "/game-of-motivation/index.html",
+    "precache-manifest.5934154ac680a44b924a62ce776d41ee.js": "/game-of-motivation/precache-manifest.5934154ac680a44b924a62ce776d41ee.js",
+    "service-worker.js": "/game-of-motivation/service-worker.js",
+    "static/css/main.f14595a4.chunk.css.map": "/game-of-motivation/static/css/main.f14595a4.chunk.css.map",
+    "static/js/2.ba15851d.chunk.js.LICENSE.txt": "/game-of-motivation/static/js/2.ba15851d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/game-of-motivation/static/media/paper.156ffd60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6d1806a.js",
+    "static/js/2.ba15851d.chunk.js",
+    "static/css/main.f14595a4.chunk.css",
+    "static/js/main.3b2db887.chunk.js"
+  ]
+}
